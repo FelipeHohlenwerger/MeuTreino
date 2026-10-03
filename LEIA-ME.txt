@@ -1,0 +1,16 @@
+MEU TREINO - como colocar na tela inicial do celular
+
+1) Hospedar (gratis, 2 minutos)
+   Opcao mais simples: Netlify Drop
+   - Acesse app.netlify.com/drop (crie uma conta gratuita se pedir)
+   - Arraste a PASTA 'meu-treino-pwa' (descompactada) para a pagina
+   - Voce recebe um endereco https://...netlify.app
+   Outras opcoes: GitHub Pages ou Cloudflare Pages (suba os 7 arquivos na raiz do site).
+
+2) Instalar no celular
+   - iPhone: abra o endereco no SAFARI > botao Compartilhar > 'Adicionar a Tela de Inicio'
+   - Android: abra no CHROME > menu (tres pontinhos) > 'Instalar app' ou 'Adicionar a tela inicial'
+
+3) Dados
+   - Os exercicios, midias e treinos ficam guardados no aparelho. Use Biblioteca > Backup de vez em quando.
+   - Para trazer o que voce ja fez na versao antiga: exporte o backup nela e use 'Restaurar de um backup' no app novo.
